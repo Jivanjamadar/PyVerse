@@ -686,7 +686,3 @@
   * Interactive-Code-Playground
     * [Main](Web_Development/interactive-code-playground/main.py)
     * [Temp Code](Web_Development/interactive-code-playground/temp_code.py)
-
-## 
-
-## [Demo](/demo.py)
